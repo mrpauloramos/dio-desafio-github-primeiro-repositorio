@@ -53,7 +53,7 @@ section {
 }
 
 .banner .logo {
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, .2);
     height: 260px;
     width: 260px;
     margin: auto;
@@ -107,7 +107,7 @@ section {
     color: #33a8db;
 }
 
-#transform-word {
+#transform-world {
     height: 560px;
     background-size: cover;
     background-image: url("../images/woman-code.png");
@@ -117,7 +117,7 @@ section {
     padding: 200px;
 }
 
-#transform-word p {
+#transform-world p {
     font-weight: 900;
     font-size: 2.5rem;
     text-transform: lowercase;
